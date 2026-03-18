@@ -1,2 +1,8 @@
-# url-shortener-backend
-Scalable URL Shortener using Java, Spring Boot, Redis, and AWS
+# URL Shortener Service
+
+## Tech Stack
+- Java
+- Spring Boot
+
+## Status
+Project initialized. Core APIs in progress.
